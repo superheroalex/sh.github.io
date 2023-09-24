@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/tribalvi/h1.superheroalexfoundation.org/
+    /bin/cp index.html
